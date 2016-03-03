@@ -73,7 +73,7 @@
         "environment": [
             {
                 "name": "AWS_SECRET_ACCESS_KEY",
-                "value": "1111111111111111111111111111111111111111"
+                "value": "/O2K3d8ZfFWL1NUgopK3Hfy9tr8QprIMtL47I5fN"
             },
             {
                 "name": "BROKER_URL",
@@ -93,7 +93,7 @@
             },
             {
                 "name": "AWS_ACCESS_KEY_ID",
-                "value": "AAAAAAAAAAAAAAAAAAAA"
+                "value": "AKIAJGYLSAACV7UDWIVA"
             },
             {
                 "name": "DB_HOST",
@@ -118,7 +118,7 @@
         "environment": [
             {
                 "name": "AWS_SECRET_ACCESS_KEY",
-                "value": "1111111111111111111111111111111111111111"
+                "value": "/O2K3d8ZfFWL1NUgopK3Hfy9tr8QprIMtL47I5fN"
             },
             {
                 "name": "BROKER_URL",
@@ -142,7 +142,7 @@
             },
             {
                 "name": "AWS_ACCESS_KEY_ID",
-                "value": "AAAAAAAAAAAAAAAAAAAA"
+                "value": "AKIAJGYLSAACV7UDWIVA"
             },
             {
                 "name": "DB_HOST",
