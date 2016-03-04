@@ -5,7 +5,7 @@ web:
   environment:
     AWS_ACCESS_KEY_ID:  AKIAJGYLSAACV7UDWIVA
     AWS_SECRET_ACCESS_KEY: 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
-    AWS_EC2_REGION: us-west-2a
+    AWS_EC2_REGION: us-West-2
     BROKER_URL: redis://redis:6379/0
     DB_HOST: db
     DB_NAME: postgres
