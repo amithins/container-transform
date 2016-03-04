@@ -89,7 +89,7 @@
             },
             {
                 "name": "AWS_EC2_REGION",
-                "value": "us-west-2a"
+                "value": "us-West-2"
             },
             {
                 "name": "AWS_ACCESS_KEY_ID",
@@ -134,7 +134,7 @@
             },
             {
                 "name": "AWS_EC2_REGION",
-                "value": "us-west-2a"
+                "value": "us-West-2"
             },
             {
                 "name": "DB_USER",
